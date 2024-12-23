@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @PenBond
-- 👀 I’m interested in creating CF Tunnels
+👋 Hello! I’m @PenBond
 
 <!---
 PenBond/PenBond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
