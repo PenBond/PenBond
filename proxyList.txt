@@ -1,0 +1,14 @@
+58.82.203.189,12309,Hong Kong,China Mobile
+138.2.10.149,45638,Japan,Oracle Cloud
+160.16.101.34,443,Japan,Sakura Internet
+140.245.97.193,443,Singapore,Oracle Cloud
+180.224.73.183,50011,South Korea,LG
+118.131.232.132,30063,South Korea,LG
+60.248.63.88,21243,Taiwan,Chunghwa Telecom
+171.103.12.185,12177,Thailand,True Online
+125.7.24.251,443,Australia,Macquarie Telecom
+31.129.49.103,443,Russia,Selectel
+84.201.175.18,443,Russia,Yandex Cloud
+185.66.164.51,443,United Kingdom,Perfecto Mobile
+142.171.83.8,443,United States,Multacom
+74.48.85.50,443,United States,Multacom
